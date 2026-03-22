@@ -1,0 +1,16 @@
+Energy Consumption Prediction Results
+========================================
+
+Linear Regression
+MAE: 0.0255
+MSE: 0.0015
+RMSE: 0.0390
+R2: 0.9986
+
+Random Forest
+MAE: 0.0188
+MSE: 0.0017
+RMSE: 0.0418
+R2: 0.9984
+
+Best Model: Linear Regression
